@@ -25,7 +25,7 @@ h1:hover {
  font-family: 'Festive', cursive;
 }
 .p1:hover{
-	 font-size: 100px;
+	 font-size: 70px;
 }
 .p2{ 
  text-align: center;
@@ -34,7 +34,7 @@ h1:hover {
  font-family: 'Festive', cursive;
 }
 .p2:hover{
-	 font-size: 100px;
+	 font-size: 70px;
 }
 .p3{ 
  text-align: center;
@@ -43,7 +43,7 @@ h1:hover {
  font-family: 'Festive', cursive;
 }
 .p3:hover{
-	 font-size: 100px;
+	 font-size: 70px;
 }
 a {
 	text-decoration: none;
