@@ -33,11 +33,17 @@ h1:hover {
  font-size: 60px;
  font-family: 'Festive', cursive;
 }
+.p2:hover{
+	 font-size: 100px;
+}
 .p3{ 
  text-align: center;
  /*border : dashed #6963B5;*/
  font-size: 60px;
  font-family: 'Festive', cursive;
+}
+.p3:hover{
+	 font-size: 100px;
 }
 a {
 	text-decoration: none;
