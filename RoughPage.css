@@ -1,0 +1,43 @@
+body {
+	background-color: rgba(188,184,234);
+}
+h1 {
+	color: #6963B5;
+	font-family: 'Noto Sans Mono', monospace;
+	font-size: 150px;
+	text-align: center;
+	background-color: rgba(225, 224, 249);
+	/*border : dashed #6963B5;*/
+}
+h1:hover {
+	/*color: rgba(254, 253, 255) ;*/
+	color: rgba(147, 142, 212) ;
+	/*color: rgba(225, 224, 249) ;*/
+	background-color: white;
+	/*border : dashed rgba(254, 253, 255);*/
+	cursor: pointer;
+	/*background-color: rgb(20,68,70);*/
+}
+.p1{ 
+ text-align: center;
+ /*border : dashed #6963B5;*/
+ font-size: 60px;
+ font-family: 'Festive', cursive;
+}
+.p2{ 
+ text-align: center;
+ /*border : dashed #6963B5;*/
+ font-size: 60px;
+ font-family: 'Festive', cursive;
+}
+.p3{ 
+ text-align: center;
+ /*border : dashed #6963B5;*/
+ font-size: 60px;
+ font-family: 'Festive', cursive;
+}
+a {
+	text-decoration: none;
+	color: white;
+
+}
